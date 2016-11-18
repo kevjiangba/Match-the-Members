@@ -1,4 +1,4 @@
-# iOSproject1
+# Match the Members
 
 ### Mobile Developers of Berkeley - iOS Development Training Program
 Week 1 - Match the Members project
